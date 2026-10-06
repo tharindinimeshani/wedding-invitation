@@ -1,15 +1,15 @@
 export const wedding = {
-  bride: "Chathurika",
-  groom: "Sandaru",
+  bride: "Samadhi",
+  groom: "Vimukthi",
 
-  date: "20 December 2026",
-  time: "6:00 PM",
-  countdownDate: "2026-12-20T18:00:00",
+  date: "20 November 2026",
+  time: "10:00 AM to 03:30 PM",
+  countdownDate: "2026-11-20T18:10:00",
 
-  venue: "Grand Ballroom",
-  city: "Colombo",
-  address: "Colombo, Sri Lanka",
-  locationUrl: "https://maps.google.com/?q=Colombo",
+  venue: "Grand Mondo Luxury Banquets",
+  city: "Meegoda",
+  address: "Grand Mondo Luxury Banquets, Meegoda, Sri Lanka",
+  locationUrl: "https://maps.app.goo.gl/iXM9Fb5FYYFsRhNX9",
 
   couplePhoto: "/images/demo.jpg",
   music: "/music/wedding-song.mp3",
